@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; connect-src https://repdayprodd19c8868-repday-api.functions.fnc.fr-par.scw.cloud; form-action 'none'; base-uri 'none'">
+  <title>RepDay — confirmer votre compte</title>
+  <link rel="stylesheet" href="/account.css">
+  <script type="module" src="/account.js"></script>
+</head>
+<body><main>
+  <p class="brand">RepDay</p>
+  <h1 id="title">Confirmer votre compte</h1>
+  <p id="explanation">Choisissez un nouveau mot de passe pour sécuriser votre compte.</p>
+  <form id="account-form">
+    <label for="password">Nouveau mot de passe</label>
+    <input id="password" type="password" autocomplete="new-password" minlength="8" maxlength="128" required>
+    <label for="confirm">Confirmer le mot de passe</label>
+    <input id="confirm" type="password" autocomplete="new-password" minlength="8" maxlength="128" required>
+    <button id="submit" type="submit">Confirmer</button>
+  </form>
+  <p id="status" role="status" aria-live="polite"></p>
+  <p class="note">Ce lien est personnel et à usage unique. Si vous n’avez pas demandé cette action, fermez cette page.</p>
+</main></body></html>

@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "7DA8772B58.com.repday.app"
+        ],
+        "components": [
+          {
+            "/": "/reset"
+          },
+          {
+            "/": "/verify"
+          }
+        ]
+      }
+    ]
+  }
+}
