@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.repday.app",
       "sha256_cert_fingerprints": [
-        "25:BE:2E:9A:48:B6:3E:AA:B9:06:99:51:CB:F4:F8:74:0F:50:1F:72:52:FB:3A:2E:8B:AF:00:7B:9C:5F:C0:40"
+        "25:BE:2E:9A:48:B6:3E:AA:B9:06:99:51:CB:F4:F8:74:0F:50:1F:72:52:FB:3A:2E:8B:AF:00:7B:9C:5F:C0:40",
+        "59:9C:75:74:23:0C:B6:95:8C:89:09:16:E1:7E:0E:28:6A:5E:F2:1C:98:3A:99:A7:EB:DB:1F:96:68:38:92:57"
       ]
     }
   }
